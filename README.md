@@ -31,7 +31,7 @@ MikroElektronika Button R click board (used in LAB 7.1, LAB 7.2 and LAB 7.3): ht
 
 MikroElektronika EXPAND 6 click board (used in LAB 7.4, LAB 7.5 and LAB 7.6): https://www.mikroe.com/expand-6-click 
 
-MikroElektronika Accel click board (used in LAB 10.1, LAB 10.4 and LAB 12.1): https://www.mikroe.com/accel-click 7	
+MikroElektronika Accel click board (used in LAB 10.1, LAB 10.4 and LAB 12.1): https://www.mikroe.com/accel-click 	
 
 Olimex MOD-Wii-UEXT-NUNCHUCK (used in LAB 10.2, LAB 10.3 and LAB 11.2): https://www.olimex.com/Products/Modules/Sensors/MOD-WII/MOD-Wii-UEXT-NUNCHUCK/open-source-hardware 
 
